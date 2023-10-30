@@ -11,7 +11,7 @@ export default function Home() {
         <Hero />
         <h2 className='text-3xl font-serif pt-10 pb-5 underline font-extrabold'>Our Recent Events</h2>
 
-        <div className='grid grid-cols-2 gap-8 pb-10'>
+        <div className='grid lg:grid-cols-2 gap-8 pb-10 px-4'>
           <Pictures img={'/assets/aass1.JPG'} />
           <Pictures img={'/assets/aass2.JPG'} />
           <Pictures img={'/assets/aass3.JPG'} />

@@ -13,7 +13,7 @@ const Navbar = async () => {
                     <ul className="flex lg:space-x-16 md:space-x-7   mr-10 md:mr-0 font-semibold">
                     </ul>
                    <div>
-                   <div className='flex items-center space-x-3 '>
+                   <div className='flex items-center space-x-3 ml-20 lg:ml-0'>
                     <div>
                         <Link href={"https://www.facebook.com/aridianarray"}>
                         
